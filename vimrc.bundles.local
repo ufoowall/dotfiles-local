@@ -1,0 +1,43 @@
+Plug 'molokai'
+"Plug 'Solarized'
+Plug 'bling/vim-airline'
+"Plug 'winmanager'
+Plug 'supertab'
+"Plug 'bufexplorer.zip'
+Plug 'minibufexpl.vim'
+"Plug 'ShowMarks7'
+"Plug 'Syntastic'
+"Plug 'scrooloose/syntastic'
+"Plug 'svnvimdiff'
+
+"Plug 'pathogen.vim'
+
+"Plug 'taglist.vim'
+Plug 'Tagbar'
+"Plug 'xolox/vim-misc'
+"Plug 'xolox/vim-easytags'
+
+Plug 'The-NERD-tree'
+Plug 'Gundo'
+Plug 'The-NERD-Commenter'
+"Plug 'checksyntax'
+Plug 'Shougo/neocomplete'
+Plug 'Shougo/vimshell'
+
+"Plug 'Valloric/YouCompleteMe'
+
+" c/c++
+"Plug 'a.vim' // have bug , when press space, freeze
+
+" git ...
+Plug 'airblade/vim-gitgutter'
+Plug 'gitv'
+"
+" markdown ...
+Plug 'Markdown'
+
+" golang ...
+Plug 'fatih/vim-go'
+Plug 'Blackrush/vim-gocode'
+Plug 'dgryski/vim-godef'
+Plug 'vim-jp/vim-go-extra'
